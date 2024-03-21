@@ -44,4 +44,6 @@ Las sesiones se llevan a cabo los viernes. En la siguiente tabla puedes consulta
   - Cultura general inglesa
   - Ejemplos y práctica
 
-Y además, pinchando en el archivo denominado "Recursos.md" podrás acceder a una lista completa de recursos audiovisuales con los que podrás aprender inglés de la manera más fácil. ¡No te lo pierdas!
+Y, además, pinchando en el archivo denominado <a href="https://github.com/emperadev/learn-english/blob/main/Recursos.md">"Recursos"</a> podrás acceder a una lista completa de recursos audiovisuales (canciones, videos, juegos, etc) con los que podrás aprender inglés de la manera más fácil. ¡No te lo pierdas!
+
+
