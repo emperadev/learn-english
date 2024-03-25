@@ -12,4 +12,5 @@ Aquí podrás encontrar sitios web interesantes con los que practicar inglés y 
  - <a href="https://dictionary.cambridge.org/es/diccionario/ingles/">Diccionario Cambridge Español-Inglés</a> (Diccionario Oficial de Cambridge)
  - <a href="https://www.wordreference.com/">Wordreference</a> (Diccionario Wordreference)
  - <a href="https://www.gamestolearnenglish.com/">Games To Learn English</a> (Juegos para Aprender Inglés)
- - <a href="https://www.languagereactor.com/">Language Reactor</a> (Sitio web muy útil para aprender mediante extensiones)
+ - <a href="https://www.languagereactor.com/">Language Reactor</a> (Sitio web muy útil para Aprender mediante Extensiones)
+ - <a href="https://www.cambridge.org/features/IPAchart/">Tabla Fonética del Inglés</a> (Tabla Fonética Interactiva para Aprender la Pronunciación de cada Sonido del Inglés)
