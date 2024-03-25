@@ -9,5 +9,7 @@ Ver videos es una buena manera de aprender inglés y mejorar tus habilidades. Co
 
 ## Webs Interesantes 🤠
 Aquí podrás encontrar sitios web interesantes con los que practicar inglés y disfrutar 👍:
- - <a href="https://www.gamestolearnenglish.com/">Games To Learn English</a>
- - <a href="https://www.languagereactor.com/">Language Reactor</a>
+ - <a href="https://dictionary.cambridge.org/es/diccionario/ingles/">Diccionario Cambridge Español-Inglés</a> (Diccionario Oficial de Cambridge)
+ - <a href="https://www.wordreference.com/">Wordreference</a> (Diccionario Wordreference)
+ - <a href="https://www.gamestolearnenglish.com/">Games To Learn English</a> (Juegos para Aprender Inglés)
+ - <a href="https://www.languagereactor.com/">Language Reactor</a> (Sitio web muy útil para aprender mediante extensiones)
