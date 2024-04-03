@@ -1,0 +1,4 @@
+## Sesión Práctica - Verbos y Vocabulario de Cocina
+
+En esta sesión práctica aprenderemos verbos y vocabulario de cocina. Veremos cómo describir una receta de nuestro país o localidad. Puedes participar subiendo tu receta haciendo "fork" de este repositorio, modificando el archivo y haciendo "pull request". Si todo está bien aceptaré tu receta, de no ser así, te enviaré la corrección y, una vez corregido, aceptaré tu receta. No tengas miedo en participar. 
+(Si necesitas ayuda de cómo hace "fork", o "pull request" te dejo este <a href="https://github.com/mouredev/hello-git">enlace</a> al curso de Git y Github de Brais Moure).
