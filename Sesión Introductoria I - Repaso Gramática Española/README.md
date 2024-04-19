@@ -1,6 +1,8 @@
 # Learn English! 📖
 Curso completo para aprender Inglés desde cero y para principiantes. ¡Y totalmente Gratis!
 
+![https://github.com/emperadev](https://github.com/emperadev/learn-english/blob/main/Sesi%C3%B3n%20Introductoria%20I%20-%20Repaso%20Gram%C3%A1tica%20Espa%C3%B1ola/Repaso%20de%20Gram%C3%A1tica%20y%20Ortograf%C3%ADa%20Espa%C3%B1ola.png?raw=true)
+
  ## Repaso de Gramática y Ortografía Española ##
 
  Para aprender un nuevo idioma es fundamental que conozcamos nuestra lengua en profundidad y todos los elementos que la caracterizan. Por este motivo, en la siguiente carpeta encontrarás dos archivos que muestran la gramática y la ortografía española y que servirán de repaso y preámbulo para el aprendizaje del inglés como lengua extranjera. 
