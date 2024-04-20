@@ -2,7 +2,7 @@
 ⚠️ ¡¡En Constante Construcción!! ⚠️
 
 ## Música 🎵
-En la siguiente lista de Spotify podrás encontrar canciones de todos los géneros con los que podrás practicar tus habilidades de *listening* y, por qué no, *speaking* también. <a href="https://open.spotify.com/playlist/7gyvu2Pota1vRy2fhJTUxX?si=44381712ded243ee">Pincha aquí para acceder a la lista</a> 🤘🎼
+En la siguiente lista de Spotify podrás encontrar canciones de todos los géneros con los que podrás practicar tus habilidades de *listening* y, por qué no, *speaking* también. <a href="https://open.spotify.com/playlist/7gyvu2Pota1vRy2fhJTUxX?si=3d6b61032dc641eb&pt=14e3cafb65617965b9d1632d941cb030">Pincha aquí para acceder a la lista</a> 🤘🎼
 
 ## Vídeos 📹
 Ver videos es una buena manera de aprender inglés y mejorar tus habilidades. Compruébalo pinchando en los siguientes enlaces: 
