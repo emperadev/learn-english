@@ -32,7 +32,27 @@ Las sesiones se llevan a cabo los viernes. En la siguiente tabla puedes consulta
     <td> España </td>
     </tr>
 <table/>
-
+    
+Y para el horario de verano se adelanta una hora como se puede ver en la siguiente tabla: 
+<table>
+    <tr>
+    <td> 13.00 pm a 14.00 pm </td>
+    <td> Cuba</td>
+    </tr>
+    <tr>
+    <td> 15.00 pm a 16.00 pm </td>
+    <td> Chile y Paraguay</td>  
+    </tr>
+    <tr>
+    <td> 18.00 pm a 19.00 pm </td>
+    <td> Canarias y Portugal</td>
+    </tr>
+    <tr>
+    <td> 19.00 pm a 20.00 pm </td>
+    <td> España</td>  
+    </tr>
+</table>
+    
 > ##### Si consideras útil este curso, puedes apoyarlo haciendo "★ Star" en el repositorio. ¡Muchas Gracias!
 
 ## Qué puedes aprender en este curso:
