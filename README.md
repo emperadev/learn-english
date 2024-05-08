@@ -66,10 +66,20 @@ Y para el horario de verano se adelanta una hora como se puede ver en la siguien
 
 Y, además, pinchando en el archivo denominado <a href="https://github.com/emperadev/learn-english/blob/main/Recursos.md">"Recursos"</a> podrás acceder a una lista completa de recursos audiovisuales (canciones, videos, juegos, etc) con los que podrás aprender inglés de la manera más fácil. ¡No te lo pierdas! 🥇 Esta lista se actualizará esporádicamente. 🤪
 
+# ¿Quiénes Somos? ❔
+
 ## ⚛️ Hola, mi nombre es Toño Tejera 🤘
 ### Filólogo y Developer en Proceso 
 
 Soy filólogo inglés desde 2022. Doy clases de inglés online mientras inicio el largo camino del aprendizaje del desarrollo web. 
 
-### En mi perfil de Github tienes más información sobre mí y mis proyectos
+### En mi perfil de Github tienes más información sobre mí y mis proyectos:
 [![Web](https://img.shields.io/badge/GitHub-emperadev-14a1f0?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/emperadev/)
+
+## 📖 Hola, mi nombre es Ana Jiménez 🦋
+### Profesora de inglés y español como segundas lenguas con 7 años de experiencia
+
+Profesionista capaz de adaptarse al cambio, incursionado en diferentes giros y profesiones superando de manera exitosa los retos que cada uno ha representado.
+
+### En mi perfil de Github tienes más información sobre mí y mis proyectos:
+[![Web](https://img.shields.io/badge/GitHub-AnaDJmzP-14a1f0?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/AnaDJmzP/)
